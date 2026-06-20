@@ -1,4 +1,4 @@
-ultrasonic setup
+The ultrasonic setup
 
 1. Copy code
 2. Paste into Arduino IDE
@@ -29,7 +29,7 @@ void loop()
     delay(2000);
 }
 
-ultrasonic checking code
+is it working or not ultrasonic checking code
 #define TRIG_PIN 5
 #define ECHO_PIN 18
 
